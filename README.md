@@ -1,11 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Omar Ahmed Ramadan - AI & Data Science Student" width="100%"/>
-
-<br/>
-
-**AI & Data Science Student @ SUTec** &nbsp;|&nbsp; **Ex-AI Intern @ ACUD**<br/>
-Data Engineering &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; AI Engineering &nbsp;|&nbsp; Full-Stack Web Development
+<img src="banner.svg" alt="Omar Ahmed Ramadan | AI & Data Science Student @ SUTec | Ex-AI Intern @ ACUD | Data Engineering | Machine Learning | AI Engineering | Full-Stack Web Development" width="100%"/>
 
 <br/>
 
@@ -54,7 +49,14 @@ Deployed three real apps: **CapitalFlow AI**, **Arabic Reviews Sentiment Analysi
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 
 **AI & machine learning**<br/>
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/HUGGING%20FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/SPARK%20MLLIB-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge"/>
+
+- **Supervised learning:** Linear and Polynomial Regression, Logistic Regression, KNN, Decision Trees, Random Forest, Gradient Boosting, ensemble methods
+- **Unsupervised learning & anomaly detection:** K-Means, Hierarchical Clustering, DBSCAN, One-Class SVM
+- **Deep learning:** ANN / MLP, CNN, RNN, LSTM, YOLO object detection (vehicle detection), TrOCR (transformer-based OCR)
+- **NLP & GenAI:** Arabic text preprocessing, TF-IDF (unigrams + bigrams), sentiment analysis, retrieval-augmented generation (RAG), LLM-based assistant (Gemini Flash), building an LLM from scratch
+- **Classic AI:** BFS, DFS and A\* search, rational agents
+- **Data mining & evaluation:** CRISP-DM, feature engineering, IQR outlier handling, model comparison (R², RMSE, accuracy)
 
 **Data & visualization**<br/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
@@ -69,20 +71,42 @@ Deployed three real apps: **CapitalFlow AI**, **Arabic Reviews Sentiment Analysi
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🚌 [SUTech Transport System](https://github.com/Ahmed-Aldmrdash/sutech-transport)
-The university's transport system as one installable web app (PWA), serving students, parents, drivers, supervisors and every university office involved. Built as a team project.
+### 🚌 [SUTech Transportation: A Smart University Bus Management Platform](https://github.com/Ahmed-Aldmrdash/sutech-transport)
+A bilingual (Arabic / English) **Progressive Web App** that digitises the SUTech university bus service: **23 morning routes and 27 buses** run with the Abu El Hol bus company. Built by a **10-student team** (AI & Data Science, Computer Science and Cybersecurity) for the university's Transportation Department as a real client, with written requirements (22 items) and official route and fleet data. [Live demo →](https://sutech-transport.vercel.app) (sample data)
 
-- Arabic (default, RTL) and English, with light and dark modes
-- Student booking, payment, digital bus card and live bus tracking; parent approval; driver and supervisor trip logging with SOS
-- Role-based pages for each office: transport, finance, clinic, student affairs and super admin
-- **API contract** (`openapi.json`) and a front end ↔ back end agreement written for the Back End team
-- CI pipeline: type checks, lint, unit tests, build and end-to-end tests on every pull request
+**The problem:** subscriptions, bank receipts, line-change forms, parent approvals and delay notices all moved through paper, phone calls and WhatsApp groups, so nobody could see where the bus was, who boarded, or react fast in an emergency.
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+**One app for ten roles:** students, guardians, drivers, bus supervisors, and the Transportation, Finance, Clinic and Student Affairs offices, the Secretary General, the bus operator and a super admin.
+
+**🎨 Front end** (complete and tested on sample data)
+- Installable PWA, Arabic (RTL, default) and English, light and dark modes, offline digital card and offline boarding scans
+- **133 pages**, **297 unit tests** and **195 end-to-end scenarios** passing, **0 accessibility violations** (WCAG 2 AA), Lighthouse 99 desktop / 83 throttled mobile
+- Design system based on the official SUTech brand manual; CI on every pull request
+
+**⚙️ Back end** (in progress)
+- **FastAPI** REST API with role-based access on every endpoint, OpenAPI docs, a written front end ↔ back end contract of **80+ endpoints**, live events and error codes
+- **PostgreSQL + PostGIS** for routes, subscriptions, payments and geographic queries; **Redis** for latest bus position, Pub/Sub and rate limits
+- **WebSocket** and Web Push for live bus position, delays, SOS alerts and approvals
+- Security: OTP sign-in, JWT sessions, **signed rotating QR (Ed25519, every 30 s)**, Argon2, audit log, built around Egypt's data-protection law
+- **GPS tracking:** in-bus GPS devices feed a small TCP/UDP gateway that decodes the device protocol, so tracking works even when the driver's phone is off
+
+**🤖 AI & Chatbot**
+- **Bilingual AI assistant** (Arabic and English) answering route, time, fee and policy questions using **only the university's official documents**, via **retrieval-augmented generation (RAG)**: Gemini Flash behind a single replaceable `ask_llm` layer, with NumPy / SQLite retrieval; says "I don't know" when the answer is not in the data and shows its source
+- Target: at least **80% correct** on a test set of 50 real questions
+- **ETA prediction:** arrival time per stop from live position, road-segment speeds and historical trips (pandas, scikit-learn), starting rule-based and improving as trip data grows
+
+**✨ Key features:** live tracking · online subscription with receipt review · forgery-proof rotating-QR digital card · student → guardian → transport approval flow with audit log · one-tap **SOS** with the bus's exact location · Excel / PDF reports with correct Arabic (openpyxl)
+
+**Front end** &nbsp;<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white"/> <img src="https://img.shields.io/badge/next--intl-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white"/> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white"/> <img src="https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/><br/>
+**Back end** &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square"/> <img src="https://img.shields.io/badge/PostgreSQL%20%2B%20PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/><br/>
+**AI** &nbsp;<img src="https://img.shields.io/badge/Gemini%20Flash-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/RAG-F43F5E?style=flat-square"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🚦 [CapitalFlow AI](https://github.com/OmarAhmedRamadan07/CapitalFlow)
@@ -98,8 +122,6 @@ End-to-end ML and deep learning dashboard predicting road traffic across Egypt's
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏙️ [NYC Airbnb Market Predictor](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataMining)
@@ -113,6 +135,8 @@ End-to-end data mining project following the **CRISP-DM** lifecycle, deployed as
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🔤 [OCR Text Extractor](https://github.com/OmarAhmedRamadan07/OCR)
@@ -126,8 +150,6 @@ Fully local handwriting and print recognition built on Microsoft's **TrOCR** tra
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TrOCR-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ☁️ [Cloud-Native HR Analytics](https://github.com/OmarAhmedRamadan07/AI-Powered-HR-Analytics-System-ProjectCloud-DB)
@@ -141,7 +163,9 @@ Distributed HR analytics and employee attrition prediction pipeline. [Live demo 
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Spark%20MLlib-E25A1C?style=flat-square"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 🌤️ [Modern Weather Dashboard](https://github.com/OmarAhmedRamadan07/ModernWeatherDashboard-ProjectWebProgramming-SUTec)
 A weather app that doesn't just show numbers, it *feels* like the weather. Front-end focused full-stack project.
