@@ -3,10 +3,9 @@
 <img src="banner.svg" alt="Omar Ahmed Ramadan | AI & Data Science Student @ SUTec | Ex-AI Intern @ ACUD | Data Engineering | Machine Learning | AI Engineering | Full-Stack Web Development" width="100%"/>
 
 <br/>
-
 <a href="https://www.linkedin.com/in/omar-ahemed"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:oa109115@gmail.com"><img src="https://img.shields.io/badge/oa109115%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="mailto:omar240102684@sut.edu.eg"><img src="https://img.shields.io/badge/omar240102684%40sut.edu.eg-0F766E?style=for-the-badge&logo=maildotru&logoColor=white" alt="University email"/></a>
+<a href="mailto:oa109115@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:omar240102684@sut.edu.eg"><img src="https://img.shields.io/badge/UNIVERSITY%20EMAIL-5B2C6F?style=for-the-badge" alt="University email"/></a>
 
 <br/><br/>
 
