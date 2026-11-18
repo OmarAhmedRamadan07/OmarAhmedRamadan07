@@ -1,19 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C7DA0&text=Omar%20Ahmed%20Ramadan&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20STUDENT%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20NLP&descSize=15&descAlignY=60" alt="Omar Ahmed Ramadan" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C7DA0&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP;Arabic+NLP+%C2%B7+Computer+Vision;From+raw+data+to+deployed+AI+apps" alt="Typing SVG"/>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/omar-ahemed"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://cloud-db-6lqfshxx4bugvcelxkzdnx.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=OmarAhmedRamadan07&style=flat-square&color=2C7DA0&label=Profile+views" alt="Profile views"/>
-
-</div>
 
 ## 👋 About me
 
