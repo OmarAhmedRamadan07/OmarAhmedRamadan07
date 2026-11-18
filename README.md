@@ -24,7 +24,7 @@
 - 🧠 I build **end-to-end AI products**: clean the data, train and compare models, then ship them as interactive apps people can actually use.
 - 🌍 Hands-on with **Arabic NLP**, including preprocessing designed specifically for Arabic text.
 - 🎨 Comfortable across the **full stack**: UI design, backend and databases.
-- 🛠️ **15 projects in my first two years** covering programming, databases, networking, robotics, data science, AI and web development.
+- 🛠️ **+23 projects in my first two years** covering programming, databases, networking, robotics, data science, AI and web development.
 - 🎯 Focused on **Data Science, Machine Learning and AI Engineering**. Open to internships and junior roles (Egypt or remote).
 - 💬 Ask me about: machine learning projects, Arabic text processing, data cleaning, dashboards and model deployment.
 
