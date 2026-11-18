@@ -1,3 +1,21 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F2027,50:203A43,100:2C7DA0&text=Omar%20Ahmed%20Ramadan&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20STUDENT%20%C2%B7%20MACHINE%20LEARNING%20%C2%B7%20NLP&descSize=15&descAlignY=60" alt="Omar Ahmed Ramadan" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=2C7DA0&center=true&vCenter=true&width=620&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+NLP;Arabic+NLP+%C2%B7+Computer+Vision;From+raw+data+to+deployed+AI+apps" alt="Typing SVG"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/omar-ahemed"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:oa109115@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="mailto:omar240102684@sut.edu.eg"><img src="https://img.shields.io/badge/UNIVERSITY%20EMAIL-203A43?style=for-the-badge&logo=maildotru&logoColor=white" alt="University email"/></a>
+<a href="https://cloud-db-6lqfshxx4bugvcelxkzdnx.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=OmarAhmedRamadan07&style=flat-square&color=2C7DA0&label=Profile+views" alt="Profile views"/>
+
+</div>
 
 ## 👋 About me
 
@@ -7,7 +25,7 @@
 - 🧠 I love turning raw data into products people can actually use, including **Arabic NLP**.
 - 🎯 Focused on **Data Science, Machine Learning and AI**. Open to internships and junior roles (Egypt or remote).
 - 💬 Ask me about: machine learning projects, Arabic text processing, data cleaning, and deploying models with Streamlit.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/omar-ahemed).
+- 📫 Reach me: [oa109115@gmail.com](mailto:oa109115@gmail.com) · [omar240102684@sut.edu.eg](mailto:omar240102684@sut.edu.eg) · [LinkedIn](https://www.linkedin.com/in/omar-ahemed)
 
 ## 🛠️ Tech stack
 
@@ -20,8 +38,8 @@
 **Data & visualization**<br/>
 <img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/PYSPARK-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-**Web & backend**<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+**Web**<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 **Tools**<br/>
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
@@ -32,7 +50,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🚦 CapitalFlow AI
+### 🚦 [CapitalFlow AI](https://github.com/OmarAhmedRamadan07/CapitalFlow)
 Traffic volume prediction for Egypt's New Administrative Capital, with a **Faster Road Advisor** and a **Road Closure Advisor**. Ensemble of Random Forest, Gradient Boosting and ANN (R² up to **0.976**).
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
@@ -40,28 +58,10 @@ Traffic volume prediction for Egypt's New Administrative Capital, with a **Faste
 </td>
 <td width="50%" valign="top">
 
-### 💬 Arabic Reviews Sentiment Analysis
-Classifies ~**40,000** real Arabic reviews as positive, neutral or negative. Custom Arabic cleaning pipeline that keeps negation words like «مش» and «لا».
+### 🚌 [SUTech Transportation System](https://github.com/Ahmed-Aldmrdash/sutech-transport)
+The university's bus system as an app, built as a team project.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔤 OCR Text Extractor
-Fully local handwriting and print recognition using **TrOCR**: image preprocessing, automatic line segmentation and optional spell-checking. No external API.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ [NYC Airbnb Market Predictor](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataMining)
-Price prediction, K-Means market tiers (Luxury / Mid / Economy), Random Forest classifier (**83% accuracy**) and One-Class SVM anomaly detection, deployed as a web app.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
 </td>
 </tr>
@@ -76,10 +76,28 @@ Distributed ETL with PySpark, attrition prediction (Random Forest) and employee 
 </td>
 <td width="50%" valign="top">
 
-### 🌤️ Modern Weather Dashboard
-Full-stack weather app: live forecasts, interactive map, and background video and sound that change with the real weather.
+### 🌤️ [Modern Weather Dashboard](https://github.com/OmarAhmedRamadan07/ModernWeatherDashboard-ProjectWebProgramming-SUTec)
+Weather app with live forecasts, an interactive map, and background video and sound that change with the real weather.
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [NYC Real Estate Optimization](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataAnalyticsAndVisualization)
+Prescriptive rule-based AI engine over 45,000+ NYC Airbnb listings, with a Power BI executive dashboard and a Streamlit listing simulator.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏙️ [NYC Airbnb Market Predictor](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataMining)
+Price prediction, K-Means market tiers (Luxury / Mid / Economy), Random Forest classifier (**83% accuracy**) and One-Class SVM anomaly detection, deployed as a web app.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
 
 </td>
 </tr>
@@ -90,8 +108,9 @@ Full-stack weather app: live forecasts, interactive map, and background video an
 
 <br/>
 
+- 💬 **Arabic Reviews Sentiment Analysis** (ACUD internship): ~40,000 Arabic reviews, negation-aware preprocessing, TF-IDF and Logistic Regression, deployed with Streamlit.
+- 🔤 **OCR Text Extractor** (ACUD internship): fully local handwriting and print recognition with TrOCR.
 - 🧹 [NYC Airbnb Data Cleaning](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataCleansingAndMigration): IQR outlier handling, median imputation, geospatial validation.
-- 📊 [NYC Real Estate Optimization](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataAnalyticsAndVisualization): prescriptive AI engine, Power BI dashboard and Streamlit simulator.
 - 🕹️ **AI Maze Solver (Pacman)**: BFS, DFS and A\* search plus a neural risk predictor.
 - 🖥️ **CLI Dataset Profiler**: EDA and cleaning in pure Bash on Linux.
 - 🗜️ **Clozr File Compressor**: Huffman coding with a PyQt5 GUI and CLI.
