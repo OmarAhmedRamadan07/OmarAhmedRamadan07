@@ -4,10 +4,14 @@
 
 <br/>
 
+**AI & Data Science Student @ SUTec** &nbsp;|&nbsp; **Ex-AI Intern @ ACUD**<br/>
+Data Engineering &nbsp;|&nbsp; Machine Learning &nbsp;|&nbsp; AI Engineering &nbsp;|&nbsp; Full-Stack Web Development
+
+<br/>
+
 <a href="https://www.linkedin.com/in/omar-ahemed"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:oa109115@gmail.com"><img src="https://img.shields.io/badge/oa109115%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <a href="mailto:omar240102684@sut.edu.eg"><img src="https://img.shields.io/badge/omar240102684%40sut.edu.eg-0F766E?style=for-the-badge&logo=maildotru&logoColor=white" alt="University email"/></a>
-<a href="https://cloud-db-6lqfshxx4bugvcelxkzdnx.streamlit.app/"><img src="https://img.shields.io/badge/LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live demo"/></a>
 
 <br/><br/>
 
@@ -21,14 +25,14 @@
 
 <img src="https://img.shields.io/badge/%F0%9F%91%8B%20ABOUT%20ME-06B6D4?style=for-the-badge" alt="About me"/>
 
-- 🎓 **AI & Data Science Technology** student at **SUTech Elsewedy University** (BTech, 2024–2028), Cairo, Egypt. The program is internationally accredited by Amity University Dubai.
-- 🏛️ **Ex-AI & Data Science Intern at ACUD** (Administrative Capital for Urban Development): built 10+ projects across ML, deep learning, computer vision and NLP.
-- 🧠 I turn raw data into products people can use: I clean the data, train and compare models, then ship them as interactive apps.
-- 🌍 Works with **Arabic NLP**, including preprocessing built specifically for Arabic text.
-- 🎨 I also build **front-end and full-stack** apps, from UI design to the backend and database.
-- 🛠️ Completed **15 projects in my first two years**: programming, databases, networking, robotics, data science, AI and web.
-- 🎯 Focused on **Data Science, Machine Learning and AI**. Open to internships and junior roles (Egypt or remote).
-- 💬 Ask me about: machine learning projects, Arabic text processing, data cleaning, dashboards, and deploying models.
+- 🎓 **AI & Data Science Technology** student at **SUTech (Elsewedy University of Technology)**, BTech 2024–2028, Cairo, Egypt. The program is internationally accredited by Amity University Dubai.
+- 🏛️ **Ex-AI & Data Science Intern at ACUD** (Administrative Capital for Urban Development), where I built 10+ projects across machine learning, deep learning, computer vision and NLP.
+- 🧠 I build **end-to-end AI products**: clean the data, train and compare models, then ship them as interactive apps people can actually use.
+- 🌍 Hands-on with **Arabic NLP**, including preprocessing designed specifically for Arabic text.
+- 🎨 Comfortable across the **full stack**: UI design, backend and databases.
+- 🛠️ **15 projects in my first two years** covering programming, databases, networking, robotics, data science, AI and web development.
+- 🎯 Focused on **Data Science, Machine Learning and AI Engineering**. Open to internships and junior roles (Egypt or remote).
+- 💬 Ask me about: machine learning projects, Arabic text processing, data cleaning, dashboards and model deployment.
 
 <img src="https://img.shields.io/badge/%F0%9F%8F%9B%EF%B8%8F%20EXPERIENCE-3B82F6?style=for-the-badge" alt="Experience"/>
 
@@ -67,6 +71,20 @@ Deployed three real apps: **CapitalFlow AI**, **Arabic Reviews Sentiment Analysi
 <tr>
 <td width="50%" valign="top">
 
+### 🚌 [SUTech Transport System](https://github.com/Ahmed-Aldmrdash/sutech-transport)
+The university's transport system as one installable web app (PWA), serving students, parents, drivers, supervisors and every university office involved. Built as a team project.
+
+- Arabic (default, RTL) and English, with light and dark modes
+- Student booking, payment, digital bus card and live bus tracking; parent approval; driver and supervisor trip logging with SOS
+- Role-based pages for each office: transport, finance, clinic, student affairs and super admin
+- **API contract** (`openapi.json`) and a front end ↔ back end agreement written for the Back End team
+- CI pipeline: type checks, lint, unit tests, build and end-to-end tests on every pull request
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🚦 [CapitalFlow AI](https://github.com/OmarAhmedRamadan07/CapitalFlow)
 End-to-end ML and deep learning dashboard predicting road traffic across Egypt's New Administrative Capital (ACUD graduation project).
 
@@ -74,20 +92,38 @@ End-to-end ML and deep learning dashboard predicting road traffic across Egypt's
 - Deployed an **ensemble** of the 3 strongest (R² up to **0.976**, RMSE 102.83)
 - Hourly dataset modeled on the Capital's real road network, Cairo-region weather and Egyptian holidays
 - Classifies each trip: entering, exiting, inside the city or passing through
-- **Faster Road Advisor** flags a quicker alternative road
+- **Faster Road Advisor** suggests a quicker alternative road
 - **Road Closure Advisor** picks the least busy alternative and estimates the added delay
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🚌 [SUTech Transportation System](https://github.com/Ahmed-Aldmrdash/sutech-transport)
-The university's bus system as an app, built as a team project.
+### 🏙️ [NYC Airbnb Market Predictor](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataMining)
+End-to-end data mining project following the **CRISP-DM** lifecycle, deployed as a cloud-hosted SaaS tool.
 
-- Team project built with TypeScript
+- **Multiple Linear Regression** (with polynomial expansion) predicts property prices from user input
+- **K-Means** splits NYC into 3 market tiers (Luxury, Mid-Tier, Economy) on a Plotly Mapbox map
+- **Random Forest** classifies listings as Premium or Affordable (**83% accuracy**)
+- **One-Class SVM** anomaly detection flags unusual listings and possible pricing fraud
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔤 [OCR Text Extractor](https://github.com/OmarAhmedRamadan07/OCR)
+Fully local handwriting and print recognition built on Microsoft's **TrOCR** transformer model (ACUD).
+
+- Image enhancement and **Otsu thresholding** before recognition
+- Automatic **line segmentation** for multi-line documents
+- Optional offline spell-check to clean the output
+- Streamlit app for upload-and-extract, plus a notebook with an optional **fine-tuning** section
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/TrOCR-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 </td>
 </tr>
@@ -95,7 +131,7 @@ The university's bus system as an app, built as a team project.
 <td width="50%" valign="top">
 
 ### ☁️ [Cloud-Native HR Analytics](https://github.com/OmarAhmedRamadan07/AI-Powered-HR-Analytics-System-ProjectCloud-DB)
-Fully distributed HR analytics and employee attrition prediction pipeline. [Live demo →](https://cloud-db-6lqfshxx4bugvcelxkzdnx.streamlit.app/)
+Distributed HR analytics and employee attrition prediction pipeline. [Live demo →](https://cloud-db-6lqfshxx4bugvcelxkzdnx.streamlit.app/)
 
 - Scalable **ETL** with PySpark: ingestion, cleaning and feature engineering
 - **Random Forest** for attrition prediction and **K-Means** for employee segmentation (Spark MLlib)
@@ -121,48 +157,20 @@ A weather app that doesn't just show numbers, it *feels* like the weather. Front
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 [NYC Real Estate Optimization](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataAnalyticsAndVisualization)
-AI-driven advisory system that helps investors and hosts optimize pricing on the NYC Airbnb market.
-
-- Cleaned **45,000+ listings** (IQR outlier handling) and engineered business KPIs such as `occupancy_score`
-- Custom **prescriptive rule-based AI engine** that benchmarks each listing against its neighborhood
-- **Power BI** executive dashboard: geospatial hotspot map, strategy distribution, dynamic slicers
-- Streamlit **AI Listing Simulator** for real-time strategy auditing
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏙️ [NYC Airbnb Market Predictor](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataMining)
-End-to-end data mining project following the **CRISP-DM** lifecycle, deployed as a cloud-hosted SaaS tool.
-
-- **Multiple Linear Regression** (with polynomial expansion) predicts property prices from user input
-- **K-Means** splits NYC into 3 market tiers (Luxury, Mid-Tier, Economy) on a Plotly Mapbox map
-- **Random Forest** classifies listings as Premium or Affordable (**83% accuracy**)
-- **One-Class SVM** anomaly detection flags unusual listings and possible pricing fraud
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-
-</td>
-</tr>
 </table>
 
 <img src="https://img.shields.io/badge/%F0%9F%A4%96%20MORE%20AI%20%26%20NLP%20WORK-F43F5E?style=for-the-badge" alt="More AI and NLP work"/>
 
 - 💬 **Arabic Reviews Sentiment Analysis** (ACUD): classifies ~**40,000** real Arabic customer reviews as positive, neutral or negative. Custom Arabic cleaning (diacritics, letter normalization) and negation-aware stopword filtering that keeps words like «مش» and «لا». TF-IDF (unigrams + bigrams) with Logistic Regression, deployed as a Streamlit app with per-class confidence scores.
-- 🔤 **OCR Text Extractor** (ACUD): fully local handwriting and print recognition with Microsoft's **TrOCR**. Image enhancement and Otsu thresholding, automatic line segmentation, optional offline spell-check, a Streamlit app, and a notebook with an optional fine-tuning section.
 - 🕹️ **AI Maze Solver (Pacman)**: a rational agent on the UC Berkeley Pacman framework. Compares **BFS, DFS and A\*** (Manhattan heuristic): on the big maze A\* expanded 549 nodes vs 620 for BFS, and added an **MLP neural "risk radar"** that predicts danger from ghost proximity and walls.
+- 📊 [NYC Real Estate Optimization](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataAnalyticsAndVisualization): prescriptive rule-based engine that benchmarks 45,000+ listings against their neighborhood, with a Power BI executive dashboard and a Streamlit listing simulator.
 - 🧹 [NYC Airbnb Data Cleaning](https://github.com/OmarAhmedRamadan07/RealEstate-Airbnb-NYC-ProjectDataCleansingAndMigration): IQR outlier removal, median imputation, geospatial validation, correlation heatmap.
 
 <img src="https://img.shields.io/badge/%F0%9F%8E%A8%20FRONT--END%20%26%20FULL--STACK-F59E0B?style=for-the-badge" alt="Front-end and full-stack"/>
 
 I enjoy building the interface as much as the model behind it:
 
-- 🌤️ **Modern Weather Dashboard**: dynamic UI, interactive maps and a backend with a database (see above).
+- 🌤️ **Modern Weather Dashboard**: dynamic UI, interactive maps and a backend with a database (featured above).
 - 📊 **Streamlit and Plotly dashboards** for every ML project: CapitalFlow AI, Sentiment Analysis, OCR, HR Analytics, NYC Predictor and the NYC Listing Simulator.
 - 📈 **Power BI** executive dashboard with geospatial mapping and slicers.
 - 🖥️ **PyQt5 desktop GUI** for the Clozr file compressor, with Huffman tree and compression-ratio visualization.
